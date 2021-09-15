@@ -1,0 +1,2 @@
+# Nwen243
+NWEN 243 provides a broad introduction to computer networks and a basic understanding of working in the cloud. It covers a range of introductory topics including the essentials of data communication, computer network concepts, protocols, network applications and simple cloud configuration, virtualisation and containers. The course features an interactive laboratory component with projects starting from basic networking technologies leading into cloud application development.
